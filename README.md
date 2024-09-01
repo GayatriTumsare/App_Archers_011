@@ -65,7 +65,10 @@ The data used in this project consists of ball-by-ball records from IPL seasons 
 - Refine team selections based on real-time data and machine learning models.
 
 ## **Contributors**
-- **Saswat Ranjan Nayak** - Lead Data Analyst
+- **Mohammad Asif**
+- **Gayatri Atmaram Tumsare** 
+- **Saswat Ranjan Nayak** 
+- **Anbuselvan A**
 
 ## **License**
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

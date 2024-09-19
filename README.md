@@ -7,8 +7,11 @@ This project focuses on creating balanced teams for Dream-11's upcoming Dream Cr
 
 ## Collaborators
 -[Mohammad Asif](https://github.com/mohammadasifa)
+
 -[Gayatri Tumsare](https://github.com/GayatriTumsare)
+
 -[Saswat NAyak](https://github.com/Saswat132002)
+
 -[Anbuselvan A](https://github.com/Anbu-selvan-2001)
 
 ## **Data**

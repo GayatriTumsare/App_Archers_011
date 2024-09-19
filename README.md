@@ -1,8 +1,7 @@
 # Dream Cricket League 
 ## Dream - 11 wants to launch a Dream Cricket League in India.
 
-## **Project O
-overview**
+## **Project Overview**
 
 This project focuses on creating balanced teams for Dream-11's upcoming Dream Cricket League, featuring players from IPL seasons 1-9. The goal is to form 5 teams, each consisting of 5 batsmen, 5 bowlers, and 1 wicketkeeper, based on a comprehensive data analysis of player performances across different IPL seasons.
 
